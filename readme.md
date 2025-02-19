@@ -11,7 +11,7 @@ Berdiri di atas [Baileys](https://github.com/WhiskeySockets/Baileys) Pustaka.
 Install package using npm
 
 ```
-npm install velixs-md
+npm install insan-md
 ```
 
 Kemudian impor kode Anda
@@ -19,13 +19,13 @@ Kemudian impor kode Anda
 Gunakan JS Module
 
 ```ts
-import * as whatsapp from "velixs-md";
+import * as whatsapp from "insan-md";
 ```
 
 atau gunakan CommonJS
 
 ```ts
-const whatsapp = require("velixs-md");
+const whatsapp = require("insan-md");
 ```
 
 ## Session Usage/Examples
@@ -211,7 +211,7 @@ whatsapp.setCredentialsDir("my_custom_dir");
 
 Set custom Browser
 ```ts
-// default browser is VelixS
+// default browser is insan
 whatsapp.setBrowser("macOS");
 // or : custom your name
 ```
@@ -222,4 +222,4 @@ whatsapp.setBrowser("macOS");
 
 ## Feedback or Support
 
-If you have any feedback or support, please reach out to me at ilsya@velixs.com
+If you have any feedback or support, please reach out to me at insan5272@gmail.com
