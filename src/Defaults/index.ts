@@ -13,7 +13,7 @@ export enum CALLBACK_KEY {
 }
 
 export abstract class BROWSERS_DISPLAY {
-  static BROWSERS: string = "VelixS";
+  static BROWSERS: string = "WaApi";
 }
 
 export abstract class Messages {
